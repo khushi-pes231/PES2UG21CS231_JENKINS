@@ -5,7 +5,6 @@ using namespace std;
 int main(void) {
   cout << "Hellooooo, World\n";
   cout << "Hello, Jenkins\n";
-  cout << "Webhook enabled\n";
   cout << "I have successfully built and run\n";
   
   return 0;
